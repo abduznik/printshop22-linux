@@ -1,0 +1,6 @@
+# Disc images and extracted files - never commit the actual software
+*.bin
+*.cue
+*.iso
+*.img
+*.log
